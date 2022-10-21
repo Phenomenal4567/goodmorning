@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background-color: #06bcc1;
+  background-color: #12a4d9;
 }
 
 .container{
@@ -18,9 +18,9 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: ;
-  font-size: 25px;
+  color: #333;
+  font-size: 28px;
   border-radius: 5px;
-  border: 10px solid #f4d1ae;
-  background-color: whitesmoke;
+  border: 10px solid #d9138a;
+  background-color: #eee;
 }
